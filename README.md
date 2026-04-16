@@ -31,34 +31,6 @@ Plataforma SaaS multi-tenant para gestão de marketplaces — Mercado Livre e Sh
 
 ---
 
-### [AdScale](https://adscale-dashboard.vercel.app)
-Dashboard SaaS para análise e escala de campanhas de anúncios.
-
-`Next.js` `TypeScript` `Supabase`
-
----
-
-### [Popozuda Hub](https://popozudahub.vercel.app)
-Dashboard de margem e performance para TikTok Shop com worker em VPS.
-
-`Next.js` `TypeScript` `Supabase` `Node.js`
-
----
-
-### [I9 Desk](https://i9-chamados.vercel.app)
-Sistema interno de chamados e suporte.
-
-`Next.js` `TypeScript`
-
----
-
-### [SDR Platform](https://sdr-platform-elevate-frontend-81zu.vercel.app)
-Plataforma de gestão para times de SDR.
-
-`Next.js` `TypeScript`
-
----
-
 ## Stack
 
 | Área | Tecnologias |
