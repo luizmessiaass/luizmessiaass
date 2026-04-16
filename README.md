@@ -1,46 +1,69 @@
 <h1 align="center">Luiz Henrique</h1>
 
 <p align="center">
-  Full-stack developer focado em construir produtos reais — SaaS, dashboards, automações e integrações.
+  Desenvolvedor full-stack especializado em construir SaaS do zero — da arquitetura ao deploy em produção.
+  <br/>
+  Trabalho com integrações complexas, automações e produtos que escalam.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <a href="mailto:luiz.messiaass@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Projetos
+## O que eu faço
+
+- Construo plataformas SaaS multi-tenant com autenticação, permissões por papel (RBAC) e isolamento de dados (RLS)
+- Integro APIs de marketplaces (Mercado Livre, Shopee, TikTok Shop) com OAuth, sync automático e workers em produção
+- Crio dashboards analíticos com tabelas complexas, gráficos interativos e métricas em tempo real
+- Automatizo processos com agentes configuráveis, cron jobs e pipelines visuais
+- Uso IA (Claude API) para análise de dados e recomendações contextualizadas
+- Faço deploy e opero infra: Vercel, Supabase Cloud, VPS com PM2
+
+---
+
+## Projeto em destaque
 
 ### [Elevater](https://elevater-sooty.vercel.app)
-Plataforma SaaS multi-tenant para gestão de marketplaces — Mercado Livre e Shopee.
+Plataforma SaaS para gestão unificada de marketplaces — Mercado Livre e Shopee.
 
-- Dashboard unificado com KPIs, análise de rentabilidade e gestão de anúncios
-- Automação visual com agentes configuráveis (React Flow)
-- Multi-tenancy com RBAC (Master → Supervisor → Gestor → Cliente)
-- Integração OAuth com MeLi e Shopee, tokens criptografados no Supabase Vault
-- Análise por IA com Claude API
+Resolve um problema real de agências que gerenciam dezenas de contas: logar em cada uma individualmente para acompanhar vendas, margem, anúncios e promoções. Com o Elevater, tudo em um painel.
+
+**Principais funcionalidades:**
+- Dashboard com KPIs, sparklines e variação vs período anterior
+- Análise de rentabilidade por produto com DRE automático
+- Gestão de Product Ads, Brand Ads e Shopee Ads (ACOS, ROAS, CPC)
+- Curva ABC de SKUs e mapa de calor de vendas (grid 7×24h)
+- Automação visual drag-and-drop com React Flow
+- Análise por IA com histórico conversacional
+- Multi-tenancy: Master → Supervisor → Gestor → Cliente
+- OAuth 2.0 + PKCE (MeLi) e HMAC-SHA256 (Shopee)
+- Tokens criptografados no Supabase Vault
 - Workers Node.js em VPS sincronizando dados em tempo real
 
-`Next.js 16` `React 19` `TypeScript` `Supabase` `Tailwind 4` `Claude API` `Node.js`
+`Next.js 16` `React 19` `TypeScript` `Supabase` `PostgreSQL` `Tailwind 4` `shadcn/ui` `React Flow` `TanStack Table` `Recharts` `Zustand` `React Query` `Zod` `Claude API` `Node.js` `PM2` `Playwright`
 
 ---
 
 ## Stack
 
-| Área | Tecnologias |
-|------|-------------|
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, shadcn/ui |
-| **Backend** | Supabase, PostgreSQL, Edge Functions, Node.js |
-| **Automação** | Python, Node.js workers, PM2, pg_cron |
-| **Integrações** | Mercado Livre API, Shopee API, GoHighLevel, Digisac |
-| **IA** | Claude API (Anthropic) |
-| **Deploy** | Vercel, Supabase Cloud, VPS (Hostinger) |
+**Frontend**
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Radix UI` `Framer Motion` `Recharts` `TanStack Table` `React Flow` `Zustand` `React Query` `React Hook Form` `Zod`
+
+**Backend & Banco de Dados**
+`Supabase` `PostgreSQL` `Row-Level Security` `Edge Functions` `Supabase Vault` `pg_cron` `JWT customizado`
+
+**Automação & Workers**
+`Node.js` `Python` `FastAPI` `PM2` `node-cron` `Workers em VPS`
+
+**Integrações**
+`Mercado Livre API` `Shopee API` `TikTok Shop` `GoHighLevel` `Digisac` `Claude API (Anthropic)`
+
+**Deploy & Infra**
+`Vercel` `Supabase Cloud` `VPS Hostinger` `GitHub Actions`
 
 ---
 
