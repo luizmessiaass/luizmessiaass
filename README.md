@@ -9,7 +9,7 @@
   <a href="https://github.com/luizmessiaass?tab=followers">
     <img src="https://img.shields.io/github/followers/luizmessiaass?style=flat-square&label=Followers&color=0f172a" />
   </a>
-  <a href="mailto:mrn95me@gmail.com">
+  <a href="mailto:luiz.messiaass@gmail.com">
     <img src="https://img.shields.io/badge/Email-mrn95me@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
