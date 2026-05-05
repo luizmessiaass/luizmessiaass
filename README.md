@@ -9,8 +9,8 @@
   <a href="https://github.com/luizmessiaass?tab=followers">
     <img src="https://img.shields.io/github/followers/luizmessiaass?style=flat-square&label=Followers&color=0f172a" />
   </a>
-  <a href="mailto:luiz.messiaass@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mrn95me@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:inoveautomations@gmail.com">
+    <img src="https://img.shields.io/badge/Email-inoveautomations@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -74,6 +74,14 @@ Minha abordagem: código testado, observável, com permissões claras e pronto p
 
 ## 🌟 Projetos em destaque
 
+### 🛒 [Elevater](https://github.com/i9automations/Elevater) — Gestão Inteligente de Marketplaces
+
+Plataforma multi-tenant que consolida vendas, publicidade e rentabilidade do Mercado Livre e Shopee em dashboards unificados. Inclui curva ABC, mapa de calor 7×24h, automação visual drag-and-drop com React Flow, análise por IA com Claude e RBAC com 4 níveis (Master → Supervisor → Gestor → Cliente). Tokens OAuth armazenados no Supabase Vault com refresh automático.
+
+`Next.js 16` `React 19` `TypeScript` `Supabase (Postgres + RLS + Vault)` `Tailwind v4` `shadcn/ui` `TanStack Table` `Recharts` `React Flow` `Zustand` `Anthropic Claude` `Node.js` `PM2`
+
+---
+
 ### 🎫 Avant IA Desk — Sistema de Chamados
 
 Sistema completo de gestão de tickets internos usado em ambiente real. Inclui kanban de tasks, Gantt, SLA com horário comercial brasileiro + feriados, milestones/sprints, notas seguras de projeto (com toggle de credenciais), fila assíncrona de emails com retry exponencial, rate limiting per-route, audit log estruturado com pino e matriz de permissões centralizada.
@@ -107,7 +115,7 @@ Coleta automatizada de Instagram (estáticos/carrosséis/vídeos), YouTube e Met
 
 ## 📫 Contato
 
-- 📧 **Email:** mrn95me@gmail.com
+- 📧 **Email:** inoveautomations@gmail.com
 - 💼 **GitHub:** [@luizmessiaass](https://github.com/luizmessiaass)
 
 <p align="center"><em>"Boas ferramentas amplificam bons engenheiros — IA é a nova boa ferramenta."</em></p>
