@@ -1,72 +1,121 @@
-<h1 align="center">Luiz Henrique</h1>
+<h1 align="center">Olá, sou Luiz Messias 👋</h1>
 
 <p align="center">
-  Desenvolvedor full-stack especializado em construir SaaS do zero — da arquitetura ao deploy em produção.
-  <br/>
-  Trabalho com integrações complexas, automações e produtos que escalam.
+  <strong>Full Stack Developer · IA-Powered Engineering</strong><br/>
+  Construo aplicações web modernas com foco em arquitetura escalável, boas práticas e integração com inteligência artificial para automatizar, acelerar e melhorar a experiência do usuário.
 </p>
 
 <p align="center">
-  <a href="mailto:luiz.messiaass@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://github.com/luizmessiaass?tab=followers">
+    <img src="https://img.shields.io/github/followers/luizmessiaass?style=flat-square&label=Followers&color=0f172a" />
+  </a>
+  <a href="mailto:mrn95me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mrn95me@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## O que eu faço
+## 🚀 Sobre
 
-- Construo plataformas SaaS multi-tenant com autenticação, permissões por papel (RBAC) e isolamento de dados (RLS)
-- Integro APIs de marketplaces (Mercado Livre, Shopee, TikTok Shop) com OAuth, sync automático e workers em produção
-- Crio dashboards analíticos com tabelas complexas, gráficos interativos e métricas em tempo real
-- Automatizo processos com agentes configuráveis, cron jobs e pipelines visuais
-- Uso IA (Claude API) para análise de dados e recomendações contextualizadas
-- Faço deploy e opero infra: Vercel, Supabase Cloud, VPS com PM2
+Trabalho como desenvolvedor full stack com forte interesse em engenharia assistida por IA — uso modelos LLM como ferramenta de produtividade, integração de produtos (chatbots, triagem automática, agentes) e como aliado no design de arquitetura.
+
+Minha abordagem: código testado, observável, com permissões claras e pronto pra produção. Nada de POC bonito que quebra no primeiro usuário concorrente.
 
 ---
 
-## Projeto em destaque
-
-### [Elevater](https://elevater-sooty.vercel.app)
-Plataforma SaaS para gestão unificada de marketplaces — Mercado Livre e Shopee.
-
-Resolve um problema real de agências que gerenciam dezenas de contas: logar em cada uma individualmente para acompanhar vendas, margem, anúncios e promoções. Com o Elevater, tudo em um painel.
-
-**Principais funcionalidades:**
-- Dashboard com KPIs, sparklines e variação vs período anterior
-- Análise de rentabilidade por produto com DRE automático
-- Gestão de Product Ads, Brand Ads e Shopee Ads (ACOS, ROAS, CPC)
-- Curva ABC de SKUs e mapa de calor de vendas (grid 7×24h)
-- Automação visual drag-and-drop com React Flow
-- Análise por IA com histórico conversacional
-- Multi-tenancy: Master → Supervisor → Gestor → Cliente
-- OAuth 2.0 + PKCE (MeLi) e HMAC-SHA256 (Shopee)
-- Tokens criptografados no Supabase Vault
-- Workers Node.js em VPS sincronizando dados em tempo real
-
-`Next.js 16` `React 19` `TypeScript` `Supabase` `PostgreSQL` `Tailwind 4` `shadcn/ui` `React Flow` `TanStack Table` `Recharts` `Zustand` `React Query` `Zod` `Claude API` `Node.js` `PM2` `Playwright`
-
----
-
-## Stack
+## 🛠️ Stack
 
 **Frontend**
-`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Radix UI` `Framer Motion` `Recharts` `TanStack Table` `React Flow` `Zustand` `React Query` `React Hook Form` `Zod`
 
-**Backend & Banco de Dados**
-`Supabase` `PostgreSQL` `Row-Level Security` `Edge Functions` `Supabase Vault` `pg_cron` `JWT customizado`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-**Automação & Workers**
-`Node.js` `Python` `FastAPI` `PM2` `node-cron` `Workers em VPS`
+**Backend**
 
-**Integrações**
-`Mercado Livre API` `Shopee API` `TikTok Shop` `GoHighLevel` `Digisac` `Claude API (Anthropic)`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Deploy & Infra**
-`Vercel` `Supabase Cloud` `VPS Hostinger` `GitHub Actions`
+**IA & Automação**
+
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF5B2B?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Testes & Observabilidade**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Pino](https://img.shields.io/badge/Pino-EAB308?style=for-the-badge&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**Deploy & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
+## 💡 O que me move
+
+- 🧠 **IA como ferramenta de engenharia** — uso LLMs pra acelerar desenvolvimento, gerar testes, fazer code review e construir features assistivas pros usuários
+- 🏗️ **Arquitetura limpa** — matrizes de permissão centralizadas, filas assíncronas, rate limiting, observability estruturada
+- 📐 **UX / Design Systems** — kanbans com drag-drop fluido, animações sutis com Framer Motion, glassmorphism e dashboards densos sem ficar pesado
+- 🔒 **Segurança em primeiro lugar** — validação de uploads, sanitização HTML, audit logs, redaction automática de logs sensíveis
+
+---
+
+## 🌟 Projetos em destaque
+
+### 🎫 Avant IA Desk — Sistema de Chamados
+
+Sistema completo de gestão de tickets internos usado em ambiente real. Inclui kanban de tasks, Gantt, SLA com horário comercial brasileiro + feriados, milestones/sprints, notas seguras de projeto (com toggle de credenciais), fila assíncrona de emails com retry exponencial, rate limiting per-route, audit log estruturado com pino e matriz de permissões centralizada.
+
+`Next.js 16 (Turbopack)` `TypeScript` `Prisma` `PostgreSQL (Supabase)` `NextAuth v5` `Tailwind v4` `Framer Motion` `Three.js` `Vitest`
+
+---
+
+### 📣 MG Hub — CRM de Marketing de Influência
+
+Plataforma corporativa multi-tenant para agência de marketing de influencers: gestão de campanhas, briefings com IA (Claude/OpenAI), CRM de leads, contratos, rastreio Correios, pagamentos, métricas Recharts e portal isolado pro influenciador. 18 módulos, multi-tenant com Supabase RLS.
+
+`Next.js 16` `TypeScript` `Supabase (Postgres + Auth + RLS)` `Tailwind` `Radix UI` `TanStack Table` `React Hook Form + Zod` `Recharts` `Anthropic Claude`
+
+---
+
+### 🕷️ Marketing Scrapping — Pipeline de Conteúdo Social
+
+Coleta automatizada de Instagram (estáticos/carrosséis/vídeos), YouTube e Meta Ads Library. Transcreve com Whisper (Groq), analisa multimodal com Claude, gera hooks magnéticos, roteiros e ranking de melhor conteúdo. Backend FastAPI async + scheduler. Frontend exporta relatórios em PDF/DOCX.
+
+`FastAPI` `Python` `Anthropic Claude` `Groq Whisper` `Apify` `yt-dlp` `Supabase Edge Functions` `React 19` `Vite` `Tailwind v4`
+
+> 📌 Mais projetos sendo estruturados — incluindo módulo de agentes IA pra triagem automática de tickets.
+
+---
+
+## 📊 GitHub
+
 <p align="center">
-  <a href="mailto:luiz.messiaass@gmail.com">luiz.messiaass@gmail.com</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizmessiaass&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmessiaass&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=luizmessiaass&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 **Email:** mrn95me@gmail.com
+- 💼 **GitHub:** [@luizmessiaass](https://github.com/luizmessiaass)
+
+<p align="center"><em>"Boas ferramentas amplificam bons engenheiros — IA é a nova boa ferramenta."</em></p>
