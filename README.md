@@ -9,8 +9,8 @@
   <a href="https://github.com/luizmessiaass?tab=followers">
     <img src="https://img.shields.io/github/followers/luizmessiaass?style=flat-square&label=Followers&color=0f172a" />
   </a>
-  <a href="mailto:inoveautomations@gmail.com">
-    <img src="https://img.shields.io/badge/Email-inoveautomations@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:Luiz.messiaass@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Luiz.messiaass@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@ Coleta automatizada de Instagram (estáticos/carrosséis/vídeos), YouTube e Met
 
 ## 📫 Contato
 
-- 📧 **Email:** inoveautomations@gmail.com
+- 📧 **Email:** Luiz.messiaass@gmail.com
 - 💼 **GitHub:** [@luizmessiaass](https://github.com/luizmessiaass)
 
 <p align="center"><em>"Boas ferramentas amplificam bons engenheiros — IA é a nova boa ferramenta."</em></p>
