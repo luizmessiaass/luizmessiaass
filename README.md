@@ -82,14 +82,6 @@ Sistema completo de gestão de tickets internos usado em ambiente real. Inclui k
 
 ---
 
-### 📣 MG Hub — CRM de Marketing de Influência
-
-Plataforma corporativa multi-tenant para agência de marketing de influencers: gestão de campanhas, briefings com IA (Claude/OpenAI), CRM de leads, contratos, rastreio Correios, pagamentos, métricas Recharts e portal isolado pro influenciador. 18 módulos, multi-tenant com Supabase RLS.
-
-`Next.js 16` `TypeScript` `Supabase (Postgres + Auth + RLS)` `Tailwind` `Radix UI` `TanStack Table` `React Hook Form + Zod` `Recharts` `Anthropic Claude`
-
----
-
 ### 🕷️ Marketing Scrapping — Pipeline de Conteúdo Social
 
 Coleta automatizada de Instagram (estáticos/carrosséis/vídeos), YouTube e Meta Ads Library. Transcreve com Whisper (Groq), analisa multimodal com Claude, gera hooks magnéticos, roteiros e ranking de melhor conteúdo. Backend FastAPI async + scheduler. Frontend exporta relatórios em PDF/DOCX.
