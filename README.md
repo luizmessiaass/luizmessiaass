@@ -18,7 +18,11 @@
 
 ## 🚀 Sobre
 
-Trabalho como desenvolvedor full stack com forte interesse em engenharia assistida por IA — uso modelos LLM como ferramenta de produtividade, integração de produtos (chatbots, triagem automática, agentes) e como aliado no design de arquitetura.
+Trabalho como desenvolvedor full stack na **Avant I.A**, empresa do **Grupo Next Ecommerce** — ecossistema com mais de 5 empresas no setor de e-commerce e marketplaces. Atuo desenvolvendo produtos, plataformas e integrações para todas as unidades do grupo.
+
+Grande parte dos meus projetos está alocada nos repositórios privados da organização, por isso minha atividade aqui no perfil pessoal não reflete o volume real de trabalho. Os projetos listados abaixo são os que posso compartilhar publicamente.
+
+Tenho forte interesse em engenharia assistida por IA — uso modelos LLM como ferramenta de produtividade, integração de produtos (chatbots, triagem automática, agentes) e como aliado no design de arquitetura.
 
 Minha abordagem: código testado, observável, com permissões claras e pronto pra produção. Nada de POC bonito que quebra no primeiro usuário concorrente.
 
